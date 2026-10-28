@@ -29,10 +29,12 @@ what I can point to is below, and I am glad to walk through the rest.
 
 **Attribution agent over a Power BI semantic model** · `Python` `DAX` · *private repository*
 
-- Answers business questions over a semantic model and produces auditable reports: parameterized DAX
-  catalog, immutable result store, evidence citations, multi-turn recovery across service restarts.
-- 10-round acceptance with a real model — 84 source queries, 7 reports, **57,938 rows reconciled (3,965
-  checks, zero diff)**. Fault injection found two conversation-compaction defects; both fixed and re-verified.
+- Owned the design and validation of an agent that answers business questions over a semantic model and
+  produces auditable reports: parameterized DAX catalog, immutable result store, evidence citations,
+  multi-turn recovery across service restarts.
+- Defined the acceptance protocol — 10 rounds with a real model, every number reconciled against 57,938
+  rows of raw export (3,965 checks, zero diff). Fault injection surfaced two conversation-compaction
+  defects; both were fixed and re-verified.
 
 **Time-series foundation models for demand forecasting** · `Python` `TimesFM` `MCP`
 
