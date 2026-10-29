@@ -1,6 +1,6 @@
 # Jiaxuan (Joshua) Zhang
 
-Incoming M.S. in Computer Science, University of Southern California (Fall 2027) ·
+Incoming M.S. in Computer Science (Artificial Intelligence), University of Southern California — Spring 2027 ·
 B.Eng. in Artificial Intelligence, South China Normal University
 
 I build LLM agent harnesses and study what makes them dependable — evaluating them against ground truth,
